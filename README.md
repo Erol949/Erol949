@@ -17,13 +17,6 @@ Veri Bilimi (Data Science) ve Makine Öğrenmesi (Machine Learning) tutkunu bir 
 - 🤖 Predictive Modeling & Machine Learning
 - 🏥 AI in Healthcare
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <a href="https://github.com/Erol949">
-    <img src="https://github-readme-stats.vercel.app/api?username=Erol949&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Erol's GitHub Stats" />
-  </a>
-</p>
 
 ### 📫 Bana Ulaşın
 
